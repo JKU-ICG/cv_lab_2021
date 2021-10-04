@@ -1,0 +1,12 @@
+name: cvlab
+channels:
+  - defaults
+dependencies:
+  - opencv=4
+  - numpy
+  - scikit-image
+  - scipy
+  - matplotlib
+  - python=3.9
+  - jupyter
+  - ipympl
