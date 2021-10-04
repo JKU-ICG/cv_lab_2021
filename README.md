@@ -5,7 +5,7 @@ Material for the Computer Vision Lab 2021 at JKU
 
 This repository contains the material for the course Computer Vision at the Johannes Kepler University Linz, Austria.
 
-Slides and lab material can be found in [Moodle](https://moodle.jku.at/jku/course/view.php?id=13430).
+Slides and lab material can be found in [Moodle](https://moodle.jku.at/jku/course/view.php?id=15594).
 
 ## Staff
 
