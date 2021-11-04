@@ -1,4 +1,4 @@
-name: cvlab
+name: cvlab2
 channels:
   - defaults
 dependencies:
@@ -8,6 +8,8 @@ dependencies:
   - matplotlib
   - python=3.9
   - jupyter
+  - ipympl
   - pip
   - pip:
     - opencv-python
+    - imutils
