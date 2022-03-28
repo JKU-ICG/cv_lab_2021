@@ -11,6 +11,7 @@ Slides and lab material can be found in [Moodle](https://moodle.jku.at/jku/cours
 
 * Erich Kobler (@koblererich)
 * Indrajit Kurmi
+* Someone
 
 ## Setup
 
