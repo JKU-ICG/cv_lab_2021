@@ -6,7 +6,7 @@ dependencies:
   - scikit-image
   - scipy
   - matplotlib
-  - python=3.9
+  - python=3.11
   - jupyter
   - ipympl
   - pip
