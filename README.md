@@ -9,9 +9,8 @@ Slides and lab material can be found in [Moodle](https://moodle.jku.at/jku/cours
 
 ## Staff
 
-* Erich Kobler (@koblererich)
 * Indrajit Kurmi
-
+* Somebody
 ## Setup
 
 1. Clone this repository: `git clone https://github.com/JKU-ICG/cv_lab_2021.git`
